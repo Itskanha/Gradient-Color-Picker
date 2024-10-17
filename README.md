@@ -3,13 +3,13 @@ A simple and interactive web application that allows users to explore beautiful 
 
 # Features
 1. Dynamic Gradients: Click a button to randomly change the displayed gradient.
-2. Hex Code Copying: Easily copy the hex color codes of the current gradient to the clipboard for use in your projects.
+2. Text Copying: Easily copy the text color codes of the current gradient to the clipboard for use in your projects.
 3. Responsive Design: Optimized for various screen sizes, ensuring a great user experience.
 
 # Technologies Used
- HTML
- CSS
- JavaScript
+1. HTML
+2. CSS
+3. JavaScript
 
 # How to Use
 1. Clone the repository to your local machine.
